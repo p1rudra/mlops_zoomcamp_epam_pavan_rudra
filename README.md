@@ -1,1 +1,0 @@
-# mlops_zoomcamp_epam_pavan_rudra
